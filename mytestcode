@@ -1,4 +1,4 @@
-/* this is a simple SAS data step everybody understands */
+/* this is a very simple SAS data step everybody understands */
 data _null_;
   x=10;
   putlog x=;
