@@ -1,0 +1,4 @@
+/* this is a simple SAS data step */
+data _null_;
+  x=10;
+run;
