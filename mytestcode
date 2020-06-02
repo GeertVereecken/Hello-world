@@ -1,5 +1,7 @@
-/* this is a simple SAS data step */
+/* this is a simple SAS data step everybody understands */
 data _null_;
   x=10;
   putlog x=;
+  y=20;
+  putlog y=;
 run;
