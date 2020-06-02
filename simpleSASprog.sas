@@ -1,5 +1,6 @@
-/* another small SAS data step */
+/* another very small SAS data step */
 data test;
   x=1;
-  putlog x=;
+  y=2;
+  z=3;
 run;
